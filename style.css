@@ -100,17 +100,12 @@ input{
 }
 
 @media screen and (max-width: 896px) {
-    body{
-        background-image: none;
-    }
     .container{
         width: 25rem;
         height: 40rem;
         padding: 30px;
         margin: 8px 15px;
         margin-top: 15px;
-        background-color: white;
-        box-shadow: none;
 
     }
 
@@ -122,5 +117,9 @@ input{
 
     .fields{
         width: 50%;
+    }
+    
+    .button{
+        margin-left: 60%;
     }
   }
