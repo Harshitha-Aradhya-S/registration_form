@@ -46,6 +46,7 @@ body{
 
 .fields{
     margin: 0rem 1rem;
+    width: 100%;
 }
 .main{
     display: flex;
@@ -114,7 +115,12 @@ input{
     }
 
     input{
-        padding: 8px 6px;
+        width: 140px;
+        padding: 3px 3px;
         box-sizing: border-box;
+    }
+
+    .fields{
+        width: 50%;
     }
   }
