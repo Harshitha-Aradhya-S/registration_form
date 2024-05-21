@@ -122,4 +122,7 @@ input{
     .button{
         margin-left: 60%;
     }
+    .second{
+        padding-bottom: 0.9rem;
+    }
   }
